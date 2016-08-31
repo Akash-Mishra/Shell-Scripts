@@ -14,5 +14,3 @@ echo "pull"
 
 git push origin branch
 echo "push"
-
-echo "Hello"
